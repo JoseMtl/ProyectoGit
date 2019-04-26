@@ -15,7 +15,10 @@ public class ProyectoGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Creación de proyecto en Java para compartir con GitHub.");
+        // Paso 1: Creación de proyecto en Java para compartir con GitHub.
+        System.out.println("Creación del proyecto.");
+        // Paso 2: Realizamos un cambio en el proyecto.
+        System.out.println("Esto es un cambio.");
     }
     
 }
